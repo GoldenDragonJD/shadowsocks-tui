@@ -36,7 +36,7 @@ A fast, modern, and lightweight terminal user interface (TUI) Shadowsocks VPN cl
 
 ```text
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│                        ★  SHADOWSOCKS TUI CLIENT  ★                          │
+│                          [ SHADOWSOCKS TUI CLIENT ]                          │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  Status: ○ DISCONNECTED  │ Mode: [TUN VPN]  │ IPv6: BLOCKED  │ Ping: -- ms   │
 ├──────────────────────────────────────────────────────────────────────────────┤
